@@ -4,6 +4,8 @@
 ![crochet candle](images/vases.gif)
 **Text2Mesh** is a method for text-driven stylization of a 3D mesh, as described in "Text2Mesh: Text-Driven Neural Stylization for Meshes" (forthcoming).
 
+3D mesh stylization driven by a text input in PyTorch. The text2mesh drives a modified mesh from base mesh based on clip prompt inputs and derives its texture and final results by same.
+
 # Getting Started
 ### Installation
 
